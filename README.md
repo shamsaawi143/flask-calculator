@@ -38,7 +38,7 @@ mini-project-python
 
 Clone the repository
 
-git clone https://github.com/your-username/flask-calculator.git
+git clone https://github.com/shamsaawi143/flask-calculator.git
 
 Go to the project folder
 
@@ -56,6 +56,10 @@ Open your browser and visit
 
 http://127.0.0.1:5000
 📸 Project Preview
+App Screenshot
+
+![flask-calculator Screenshot](assets/Screenshot.png)
+
 
 This calculator allows users to enter two numbers, select an operation, and see the result instantly.
 
